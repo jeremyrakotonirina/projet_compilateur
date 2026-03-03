@@ -67,7 +67,11 @@ Le pipeline de compilation est découpé en quatre phases principales :
 ## **Structure du Dépôt**
 
 • **mgolexer.mll** : Analyseur lexical (ocamllex).
+
 • **mgoparser.mly** : Grammaire grammaticale (menhir)
+
 • **typechecker.ml** : Vérificateur de types statique
+
 • **compile.ml** : Générateur de code MIPS
+
 • **tests/** : Suite de tests incluant des programmes valides et invalides
