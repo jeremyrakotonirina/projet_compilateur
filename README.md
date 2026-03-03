@@ -33,9 +33,6 @@ Ce projet consiste en la réalisation d'un **compilateur complet** pour **Micro 
 
 • **Appels** : Passage des arguments sur la pile.
 
-### **5. Affichage**
-• **Instruction fmt.Print** : Support de l'impression pour des listes d'expressions de types arbitraires.
-
 ---
 
 ## **Architecture du Compilateur**
